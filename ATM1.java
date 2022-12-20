@@ -1,6 +1,6 @@
 import java.util.Scanner;  
   
-//create ATMExample class to implement the ATM functionality  
+//create ATM class to implement the ATM functionality  
 public class ATM
 {  
     //main method starts   
